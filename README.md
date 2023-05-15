@@ -41,7 +41,7 @@ Nowadays, the GPUs on Colab tend to be K80s (which have limited memory), so we r
 To run the notebooks on your own machine, first clone the repository and navigate to it:
 
 ```bash
-$ git clone https://github.com/nlp-with-transformers/notebooks.git
+$ git clone https://github.com/Ankit-93/transformer.git
 $ cd notebooks
 ```
 
